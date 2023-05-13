@@ -42,6 +42,7 @@ Here are some ideas to get you started:
         </div>
         <div>
     </div>
+   
 ### 💻 Software and tools :
    <p>
       <br>
