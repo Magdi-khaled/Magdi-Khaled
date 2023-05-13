@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### :octocat: Profile Views
 
 [![PRs Welcome](https://komarev.com/ghpvc/?username=Magdi-khaled&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Magdi-khaled)
+### Computer Science Student at Faculty of Computers and Artificial Intelligence, Cairo University.
 
 > I'm Magdi Khaled SoftWare Engineer.
 
@@ -25,7 +26,9 @@ Here are some ideas to get you started:
 - 👨‍💻  I’m currently learning ... [(Back-End) : Node-Js,MongoDB] - [(Mobile-Android) : Flutter]
 - 👀 I’m interested in Web-Development And Mobile-Development
 <!-- - 🎯 Pesonal Portfolio Website: [Portfolio](https://larrymahumot.github.io/) -->
-- 📫 How to reach me Email: magdikhaled23s@gmail.com
+- 📫 How to reach me 
+  E-mail: magdikhaled23s@gmail.com
+  <a href="magdikhaled23s@gmail.com"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 
 
 ### 💻 Technologies :
