@@ -28,12 +28,7 @@ Here are some ideas to get you started:
 
 
 ### 💻 Technologies :
-    
-    <div style="
-    margin-left: 25px;
-    background-color: #477777;
-    width: 300px;
-    padding: 20px;border-radius:15px;">
+    <div style="margin-left=25px;">
         <div>
         <h4 style="padding:0;margin:0;">Front-end</h4>
          <br>
