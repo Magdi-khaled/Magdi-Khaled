@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 <!-- - 🎯 Pesonal Portfolio Website: [Portfolio](https://larrymahumot.github.io/) -->
 - 📫 How to reach me 
   E-mail: magdikhaled23s@gmail.com
-  <a href="magdikhaled23s@gmail.com"><i class="fa-regular fa-envelope fa-bounce" style="color: #36507d;"></i></a>
-
+  <a href="magdikhaled23s@gmail.com"></a>
+  <i class="fa-regular fa-envelope fa-bounce" style="color: #36507d;"></i>
 
 ### 💻 Technologies :
    <div style="margin-left=25px;">
