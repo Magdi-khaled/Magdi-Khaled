@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!-- - 🎯 Pesonal Portfolio Website: [Portfolio](https://larrymahumot.github.io/) -->
 - 📫 How to reach me 
   E-mail: magdikhaled23s@gmail.com
-  <a href="magdikhaled23s@gmail.com"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+  <a href="magdikhaled23s@gmail.com"><i class="fa-regular fa-envelope fa-bounce" style="color: #36507d;"></i></a>
 
 
 ### 💻 Technologies :
