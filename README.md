@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 ### 💻 Technologies :
-    <div style="margin-left=25px;">
+   <div style="margin-left=25px;">
         <div>
         <h4 style="padding:0;margin:0;">Front-end</h4>
          <br>
