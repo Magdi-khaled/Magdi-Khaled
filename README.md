@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align = 'center'>Magdi Khaled 👋</h1>
+
 ### :octocat: Profile Views
 
 [![PRs Welcome](https://komarev.com/ghpvc/?username=Magdi-khaled&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Magdi-khaled)
