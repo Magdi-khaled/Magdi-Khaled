@@ -31,9 +31,9 @@ Here are some ideas to get you started:
    <div style="margin-left=25px;">
         <div>
         <h4 style="padding:0;margin:0;">Front-end</h4>
-         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+         <img width="30px" title = "HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+         <img width="30px" title = "Css/Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+         <img width="30px" title = "Java-Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
          </div>
         <div>
             <h4 style="padding:0;margin:0;">Back-end</h4>
