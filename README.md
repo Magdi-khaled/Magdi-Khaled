@@ -37,8 +37,8 @@ Here are some ideas to get you started:
          </div>
         <div>
             <h4 style="padding:0;margin:0;">Back-end</h4>
-            <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-            <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+            <img width="30px" title = "Php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+            <img width="30px" title = "Node-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
         </div>
         <div>
     </div>
