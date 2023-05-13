@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!-- - 🎯 Pesonal Portfolio Website: [Portfolio](https://larrymahumot.github.io/) -->
 - 📫 How to reach me 
   E-mail: magdikhaled23s@gmail.com
-<a target="_blank" rel="noopener noreferrer nofollow" href=" magdikhaled23s@gmail.com"><img src="https://user-images.githubusercontent.com/112272836/215079596-072098c2-d4b9-44ff-a327-489ca029aa75.png" alt="image" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="@magdikhaled23s@gmail.com"><img src="https://user-images.githubusercontent.com/112272836/215079596-072098c2-d4b9-44ff-a327-489ca029aa75.png" alt="image" style="max-width: 100%;"></a>
  
 
 ### 💻 Technologies :
