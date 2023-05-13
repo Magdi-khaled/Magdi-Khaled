@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align = 'center'>Magdi Khaled 👋</h1>
-<div style="display: flex;flex-wrap:wrap;width:200px"><img src="https://img.icons8.com/nolan/25/computer.png"/><h3> Technologies</h3></div>
+<img src="https://img.icons8.com/nolan/25/computer.png"/><h3> Technologies</h3>
     <div>
        <h4 style="padding:0;margin:0;">Front-end</h4>
         <br>
