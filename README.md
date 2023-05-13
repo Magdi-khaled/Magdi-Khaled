@@ -1,4 +1,3 @@
-### Hi there 
 
 <!--
 **Magdi-khaled/Magdi-Khaled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +14,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align = 'center'>Magdi Khaled 👋</h1>
-<p align='center'>
-    <a href="https://www.linkedin.com/in/magdi-khaled-2b1b61206/">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAy             CAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABZElEQVR4nO2ZvUoDQRSFP1Hs/AFtBQt9A99BwV20FIV0lr6CjQTyID6DnSbqg9gp/iDopkpzZWEaw+zOzFrsHbkHThNuZs+Xu3dmk4DJZOqqI2ACTAHp2VNgDJSpECMF4aXBw5ROiHIXMSATBUEl4LsYkEpBUAn4OwZEMnFQfQcUA5lT2yfyApwAG85nwFuOHdlXtF0H1fbmVU/9Wo4gpae+yBHkHRgAm871jLzmCCKKHFTfAcVA5tSlnSk1j+4s2gKWgRVgD7gEPnIAqQ/Og8C114Eb7SA7MRcHloAHzSAp2gZmOYAsRtRcawa5AJ5d3RNw3lJ7qhXkOPH7965WkPuGNevfCOjwMNobyGfDmvXrPi1oBfnrumIgWEe8slsLmxFs1xL/eNiMiJ0jtG+TmhzUvwGpFISUgL9iQMYKgkrAtzEgpYKgEvAhkRoqCCsNviJRhfv3VMPMVO52iu6EyWTil34AFdRDhxtrT8cAAAAASUVORK5CYII=">
-    </a>
-
-</p>
+<div style="display: flex;"><img src="https://img.icons8.com/nolan/25/computer.png"/><h3> Technologies</h3></div>
+    <div>
+       <h4 style="padding:0;margin:0;">Front-end</h4>
+        <br>
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        </div>
+    <div>
+        <h4 style="padding:0;margin:0;">Back-end</h4>
+        <br>
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    </div>
+    <div>
