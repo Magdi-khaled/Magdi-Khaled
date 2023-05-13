@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align = 'center'>Magdi Khaled 👋</h1>
+### :octocat: Profile Views
+
+[![PRs Welcome](https://komarev.com/ghpvc/?username=larrymahumot&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/larrymahumot)
+
 <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
     <div>
        <h4 style="padding:0;margin:0;">Front-end</h4>
