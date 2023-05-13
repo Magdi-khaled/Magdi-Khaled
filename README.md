@@ -18,9 +18,16 @@ Here are some ideas to get you started:
 
 [![PRs Welcome](https://komarev.com/ghpvc/?username=Magdi-khaled&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Magdi-khaled)
 
+> I'm Magdi Khaled SoftWare Engineer.
+
+- 🔭 I’m currently Student but working as a freelancer... on building a Websites.
+- 👨‍💻  I’m currently learning ... [(Back-End) : Node-Js,MongoDB] - [(Mobile-Android) : Flutter]
+- 👀 I’m interested in Web-Development And Mobile-Development
+<!-- - 🎯 Pesonal Portfolio Website: [Portfolio](https://larrymahumot.github.io/) -->
+- 📫 How to reach me Email: magdikhaled23s@gmail.com
 
 
-<img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
+💻 Technologies
     <div>
        <h4 style="padding:0;margin:0;">Front-end</h4>
         <br>
