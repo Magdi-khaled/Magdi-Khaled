@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 - 👀 I’m interested in Web-Development And Mobile-Development
 <!-- - 🎯 Pesonal Portfolio Website: [Portfolio](https://larrymahumot.github.io/) -->
 - 📫 How to reach me..
--  E-mail: magdikhaled23s@gmail.com
-<a target="_blank" rel="noopener noreferrer nofollow" href="mailto: magdikhaled23s@gmail.com"><img src="https://user-images.githubusercontent.com/112272836/215079596-072098c2-d4b9-44ff-a327-489ca029aa75.png" alt="image" style="max-width: 100%;width:40px;height:40px;"></a>
-- LinkedIn: <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/magdi-khaled-2b1b61206/"><img src="https://user-images.githubusercontent.com/112272836/215079502-3d1bf17f-345f-48b0-8276-ff1a1e370742.png" alt="image" style="max-width: 100%;width:40px;height:40px;">
+- <a target="_blank" rel="noopener noreferrer nofollow" href="mailto: magdikhaled23s@gmail.com"><img src="https://user-images.githubusercontent.com/112272836/215079596-072098c2-d4b9-44ff-a327-489ca029aa75.png" alt="image" style="max-width: 100%;width:40px;height:40px;"></a>
+- <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/magdi-khaled-2b1b61206/"><img src="https://user-images.githubusercontent.com/112272836/215079502-3d1bf17f-345f-48b0-8276-ff1a1e370742.png" alt="image" style="max-width: 100%;width:40px;height:40px;">
 
 ### 💻 Technologies :
    <div style="margin-left=25px;">
