@@ -44,7 +44,7 @@ Here are some ideas to get you started:
             <h4 style="padding:0;margin:0;">Back-end</h4>
             <img width="30px" title = "Php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
             <img width="30px" title = "Node-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-            <img width="30px" title = "Django" src="https://img.favpng.com/20/6/19/django-python-computer-icons-logo-portable-network-graphics-png-favpng-fmTDmunynSK52axsEWGWJeDad.jpg">
+            <img width="30px" title = "Django"  src="https://img.favpng.com/20/6/19/django-python-computer-icons-logo-portable-network-graphics-png-favpng-fmTDmunynSK52axsEWGWJeDad.jpg">
             <img width="30px" title = "Ajax" src="">
             <img width="30px" title = "MySql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
             <img width="30px" alt="Spring" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png">
