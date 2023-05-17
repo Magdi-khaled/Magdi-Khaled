@@ -55,17 +55,17 @@ Here are some ideas to get you started:
 ### Langauges :
    <p>
       <br>
-      <a href="#"><img alt="C++" src=""></a>
-      <a href="#"><img alt="C#" src=""></a>
-      <a href="#"><img width="30px" alt="Java" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></a>
-      <a href="#"><img alt="Python" src="[[[https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white](https://fontawesome.com/icons/python?f=brands&s=solid&pc=%23e4c944)](https://icons8.com/icon/13441/python)](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)"></a>
+      <a href="#"><img width="40px" alt="C++" src=""></a>
+      <a href="#"><img width="40px" alt="C#" src=""></a>
+      <a href="#"><img width="40px" alt="Java" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></a>
+      <a href="#"><img width="40px" alt="Python" src=""></a>
       <a href="#"></a>
    </p>
       
 ### 💻 Software and tools :
    <p>
       <br>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="Git" width= "40px" src="[https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png)"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img width = "40px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"></a>
