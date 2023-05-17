@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me..
 -  E-mail: magdikhaled23s@gmail.com
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto: magdikhaled23s@gmail.com"><img src="https://user-images.githubusercontent.com/112272836/215079596-072098c2-d4b9-44ff-a327-489ca029aa75.png" alt="image" style="max-width: 100%;width:40px;height:40px;"></a>
-- LinkedIn: https://www.linkedin.com/in/magdi-khaled-2b1b61206/
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/magdi-khaled-2b1b61206/"><img src="https://user-images.githubusercontent.com/112272836/215079502-3d1bf17f-345f-48b0-8276-ff1a1e370742.png" alt="image" style="max-width: 100%;width:40px;height:40px;">
+- LinkedIn: <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/magdi-khaled-2b1b61206/"><img src="https://user-images.githubusercontent.com/112272836/215079502-3d1bf17f-345f-48b0-8276-ff1a1e370742.png" alt="image" style="max-width: 100%;width:40px;height:40px;">
 
 ### 💻 Technologies :
    <div style="margin-left=25px;">
@@ -39,6 +38,7 @@ Here are some ideas to get you started:
          <img width="30px" title = "HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
          <img width="30px" title = "Css/Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
          <img width="30px" title = "Java-Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+         <img width="30px" title = "BootStrap" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" />
          </div>
         <div>
             <h4 style="padding:0;margin:0;">Back-end</h4>
@@ -67,7 +67,9 @@ Here are some ideas to get you started:
       <br>
       <a href="#"><img alt="Git" width= "40px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img width = "40px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"></a>
+      <a href="#"><img style="border-radius:50%" alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img title = "Postman" width = "40px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"></a>
+      <a href="#"><img title = "InteliJ" width = "40px" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"></a>
+      
    </p>
      
