@@ -44,10 +44,23 @@ Here are some ideas to get you started:
             <h4 style="padding:0;margin:0;">Back-end</h4>
             <img width="30px" title = "Php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
             <img width="30px" title = "Node-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+            <img width="30px" title = "Django" src="">
+            <img width="30px" title = "Ajax" src="">
+            <img width="30px" title = "MySql" src="">
         </div>
         <div>
     </div>
    
+### Langauges :
+   <p>
+      <br>
+      <a href="#"><img alt="C++" src="[https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white](https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png)"></a>
+      <a href="#"><img alt="C#" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="Java" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Python" src="[https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white](https://fontawesome.com/icons/python?f=brands&s=solid&pc=%23e4c944)"></a>
+
+   </p>
+      
 ### 💻 Software and tools :
    <p>
       <br>
@@ -55,3 +68,4 @@ Here are some ideas to get you started:
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
    </p>
+     
