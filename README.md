@@ -66,9 +66,8 @@ Here are some ideas to get you started:
 ### 💻 Software and tools :
    <p>
       <br>
-      <a href="#"><img alt="Git" width= "40px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img style="border-radius:50%" alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img title="Git" width= "40px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></a>
+      <a href="#"><img title = "Visual Studio Code" width ="40px" alt="Visual Studio Code" src="https://user-images.githubusercontent.com/29654835/27530003-e78876b8-5a13-11e7-8863-83fbdb900f72.png"></a>
       <a href="#"><img title = "Postman" width = "40px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"></a>
       <a href="#"><img title = "InteliJ" width = "40px" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"></a>
       <a href="#"><img title = "InteliJ" width = "40px" src="https://static-00.iconduck.com/assets.00/jb-clion-icon-256x256-mysjii3d.png"></a>
