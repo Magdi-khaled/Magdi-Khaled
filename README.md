@@ -70,7 +70,7 @@ Here are some ideas to get you started:
       <a href="#"><img title = "Visual Studio Code" width ="40px" alt="Visual Studio Code" src="https://user-images.githubusercontent.com/29654835/27530003-e78876b8-5a13-11e7-8863-83fbdb900f72.png"></a>
       <a href="#"><img title = "Postman" width = "40px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"></a>
       <a href="#"><img title = "InteliJ" width = "40px" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"></a>
-      <a href="#"><img title = "InteliJ" width = "40px" src="https://static-00.iconduck.com/assets.00/jb-clion-icon-256x256-mysjii3d.png"></a>
+      <a href="#"><img title = "CLion" width = "40px" src="https://static-00.iconduck.com/assets.00/jb-clion-icon-256x256-mysjii3d.png"></a>
       
    </p>
      
