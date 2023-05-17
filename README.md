@@ -47,18 +47,19 @@ Here are some ideas to get you started:
             <img width="30px" title = "Django" src="">
             <img width="30px" title = "Ajax" src="">
             <img width="30px" title = "MySql" src="">
+            <img width="30px" alt="Spring" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png">
         </div>
         <div>
     </div>
-   
+ 
 ### Langauges :
    <p>
       <br>
       <a href="#"><img alt="C++" src=""></a>
       <a href="#"><img alt="C#" src=""></a>
-      <a href="#"><img alt="Java" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></a>
+      <a href="#"><img width="30px" alt="Java" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></a>
       <a href="#"><img alt="Python" src="[[[https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white](https://fontawesome.com/icons/python?f=brands&s=solid&pc=%23e4c944)](https://icons8.com/icon/13441/python)](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)"></a>
-
+      <a href="#"></a>
    </p>
       
 ### 💻 Software and tools :
