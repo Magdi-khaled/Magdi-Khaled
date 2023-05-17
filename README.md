@@ -55,8 +55,8 @@ Here are some ideas to get you started:
    <p>
       <br>
       <a href="#"><img alt="C++" src="[https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white](https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png)"></a>
-      <a href="#"><img alt="C#" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="Java" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="C#" src=""></a>
+      <a href="#"><img alt="Java" src=""></a>
       <a href="#"><img alt="Python" src="[https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white](https://fontawesome.com/icons/python?f=brands&s=solid&pc=%23e4c944)"></a>
 
    </p>
