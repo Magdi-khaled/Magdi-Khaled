@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ### Langauges :
    <p>
       <br>
-      <a href="#"><img alt="C++" src="[https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white](https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png)"></a>
+      <a href="#"><img alt="C++" src="[[https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white](https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png)](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CPP.svg)"></a>
       <a href="#"><img alt="C#" src=""></a>
       <a href="#"><img alt="Java" src=""></a>
       <a href="#"><img alt="Python" src="[[[https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white](https://fontawesome.com/icons/python?f=brands&s=solid&pc=%23e4c944)](https://icons8.com/icon/13441/python)](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)"></a>
