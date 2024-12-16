@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 ### :octocat: Profile Views
 
 [![PRs Welcome](https://komarev.com/ghpvc/?username=Magdi-khaled&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Magdi-khaled)
-### Computer Science Student at Faculty of Computers and Artificial Intelligence, Cairo University.
+### Fresh Graduated from Faculty of Computers and Artificial Intelligence - Cairo University [Computer Science Department].
 
 > I'm Magdi Khaled SoftWare Engineer.
 
-- 🔭 Fresh graduated from Cairo University - Faculty of computers and artificial intelligence - Working as a freelancer : building a Websites.
-- 👨‍💻  Working : 
-   .[Back-End] : Node-Js | (ExpressJs - NestJs) - MongoDB,MySQL
-   .[Front-End] : VueJs - VITE
+- 🔭 Fresh graduated - Working as a freelancer : building a Websites.
+# 👨‍💻  Work : 
+   - [Back-End] : Node-Js | (ExpressJs - NestJs) - MongoDB,MySQL
+   - [Front-End] : VueJs - VITE
 - 👀 I’m interested in Web-Development
 <!-- - 🎯 Pesonal Portfolio Website: [Portfolio](https://larrymahumot.github.io/) -->
 - 📫 How to reach me : <a target="_blank" rel="noopener noreferrer nofollow" href="mailto: magdikhaled23s@gmail.com"><img src="https://user-images.githubusercontent.com/112272836/215079596-072098c2-d4b9-44ff-a327-489ca029aa75.png" alt="image" style="max-width: 100%;width:40px;height:40px;"></a>  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/magdi-khaled-2b1b61206/"><img src="https://user-images.githubusercontent.com/112272836/215079502-3d1bf17f-345f-48b0-8276-ff1a1e370742.png" alt="image" style="max-width: 100%;width:40px;height:40px;">
