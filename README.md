@@ -36,7 +36,7 @@ Here are some ideas to get you started:
          <img width="40px" title = "Css/Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
          <img width="40px" title = "Java-Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
          <img width="40px" title = "BootStrap" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" />
-         <img width="40px" title = "TailWind" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" />
+         <img width="40px" title = "TailWind" src="https://files.raycast.com/83afy69l6wjib1zd62gya59tpc76" />
          <img width="40px" title = "VueJs" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" />
          <img width="40px" title = "VITE" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" />
          </div>
