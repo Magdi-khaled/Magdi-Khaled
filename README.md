@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 
 > I'm Magdi Khaled Software Engineer | Frontend Developer.
 
-- 🔭 Fresh graduated - Working as a freelancer : building a Websites.
+- 🔭 Front-End Developer | Fresh Graduate with around 2 years of experience designing and developing responsive, user-centric
+web applications. Proficient in modern front-end frameworks like Vue.js and Nuxt, along with solid back-end knowledge.
+Passionate about solving problems, collaborating in teams, and delivering scalable, high-performance solutions to meet
+business goals.
 # 👨‍💻  Work : 
    - [Back-End] : Node-Js | (ExpressJs - NestJs) - MongoDB,MySQL
    - [Front-End] : VueJs - VITE
