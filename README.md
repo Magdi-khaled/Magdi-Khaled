@@ -33,7 +33,7 @@ business goals.
 <!-- - 🎯 Pesonal Portfolio Website: [Portfolio](https://larrymahumot.github.io/) -->
 - 📫 How to reach me : <a target="_blank" rel="noopener noreferrer nofollow" href="mailto: magdikhaled23s@gmail.com"><img src="https://user-images.githubusercontent.com/112272836/215079596-072098c2-d4b9-44ff-a327-489ca029aa75.png" alt="image" style="max-width: 100%;width:40px;height:40px;"></a>  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/magdi-khaled-2b1b61206/"><img src="https://user-images.githubusercontent.com/112272836/215079502-3d1bf17f-345f-48b0-8276-ff1a1e370742.png" alt="image" style="max-width: 100%;width:40px;height:40px;">
 
-- My Resume : <a target="_blank" rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1SSsLyBQYkw12mXeak-mhRJV8F1jzYzNh/view?usp=drive_link"><img src="https://cdn-icons-png.freepik.com/256/16425/16425681.png?semt=ais_hybrid" alt="image" style="max-width: 100%;width:40px;height:40px;">
+- My Resume : <a target="_blank" rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1WmOGUugo7dnjbAIJHp9dVstyoJruVFPk/view?usp=sharing"><img src="https://cdn-icons-png.freepik.com/256/16425/16425681.png?semt=ais_hybrid" alt="image" style="max-width: 100%;width:40px;height:40px;">
 
 ### 💻 Technologies :
    <div style="margin-left=25px;">
