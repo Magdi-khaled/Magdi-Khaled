@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![PRs Welcome](https://komarev.com/ghpvc/?username=Magdi-khaled&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Magdi-khaled)
 ### Fresh Graduated from Faculty of Computers and Artificial Intelligence - Cairo University [Computer Science Department].
 
-> I'm Magdi Khaled SoftWare Engineer.
+> I'm Magdi Khaled Software Engineer | Frontend Developer.
 
 - 🔭 Fresh graduated - Working as a freelancer : building a Websites.
 # 👨‍💻  Work : 
