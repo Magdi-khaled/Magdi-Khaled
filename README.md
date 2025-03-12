@@ -1,84 +1,110 @@
-
-<!--
-**Magdi-khaled/Magdi-Khaled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align = 'center'>Magdi Khaled 👋</h1>
+
+---
 
 ### :octocat: Profile Views
 
 [![PRs Welcome](https://komarev.com/ghpvc/?username=Magdi-khaled&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Magdi-khaled)
-### Fresh Graduated from Faculty of Computers and Artificial Intelligence - Cairo University [Computer Science Department].
+
+### Graduate from Faculty of Computer Science and Artificial Intelligence | Cairo University - Computer Science Department
 
 > I'm Magdi Khaled Software Engineer | Frontend Developer.
 
-- 🔭 Front-End Developer | Fresh Graduate with around 2 years of experience designing and developing responsive, user-centric
-web applications. Proficient in modern front-end frameworks like Vue.js and Nuxt, along with solid back-end knowledge.
-Passionate about solving problems, collaborating in teams, and delivering scalable, high-performance solutions to meet
-business goals.
-# 👨‍💻  Work : 
-   - [Back-End] : Node-Js | (ExpressJs - NestJs) - MongoDB,MySQL
-   - [Front-End] : VueJs - VITE
-- 👀 I’m interested in Web-Development
-<!-- - 🎯 Pesonal Portfolio Website: [Portfolio](https://larrymahumot.github.io/) -->
-- 📫 How to reach me : <a target="_blank" rel="noopener noreferrer nofollow" href="mailto: magdikhaled23s@gmail.com"><img src="https://user-images.githubusercontent.com/112272836/215079596-072098c2-d4b9-44ff-a327-489ca029aa75.png" alt="image" style="max-width: 100%;width:40px;height:40px;"></a>  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/magdi-khaled-2b1b61206/"><img src="https://user-images.githubusercontent.com/112272836/215079502-3d1bf17f-345f-48b0-8276-ff1a1e370742.png" alt="image" style="max-width: 100%;width:40px;height:40px;">
+- Front-End Developer | Software Engineer
+  🚀 Passionate about building scalable, high-performance web applications with a focus on user experience and modern technologies.
 
-- My Resume : <a target="_blank" rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1WmOGUugo7dnjbAIJHp9dVstyoJruVFPk/view?usp=sharing"><img src="https://cdn-icons-png.freepik.com/256/16425/16425681.png?semt=ais_hybrid" alt="image" style="max-width: 100%;width:40px;height:40px;">
+- 📍 Fresh graduate from the Faculty of Computers and Artificial Intelligence - Cairo University with around 2 years of experience designing and
+  developing responsive, user-centric applications. Skilled in **Vue.js, Nuxt.js, Tailwind CSS**, and back-end technologies like **Node.js, Express.js, MongoDB and PostgreSQL**.
 
-### 💻 Technologies :
-   <div style="margin-left=25px;">
-      <div>
-        <h4 style="padding:0;margin:0;">Front-end</h4>
-         <img width="40px" title = "Html/Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-         <img width="40px" title = "Css/Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-         <img width="40px" title = "Java-Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-         <img width="40px" title = "BootStrap" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" />
-         <img width="40px" title = "TailWind" src="https://files.raycast.com/83afy69l6wjib1zd62gya59tpc76" />
-         <img width="40px" title = "VueJs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" />
-         <img width="40px" title = "VITE" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" />
-         </div>
-        <div>
-            <h4 style="padding:0;margin:0;">Back-end</h4>
-            <img width="40px" title = "Php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-            <img width="40px" title = "Node-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-            <img width="40px" title = "Express-Js" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" />
-            <img width="40px" title = "Django" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" >
-            <img width="40px" title = "Ajax" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png">
-            <img width="40px" title = "MySql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-            <img width="40px" title="Spring" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png">
-        </div>
-        <div>
-    </div>
- 
-### Langauges :
+## 👨‍💻 Work & Interests
+
+- I’m interested in Web-Development
+
+- **Frontend**: Vue.js, Nuxt.js and Tailwind CSS
+
+- **Backend** : Node.js, Express.js, JWT-Outh, MongoDB and PostgreSQL
+
+- **Focus**: Web Development – Building seamless, responsive applications that prioritize user experience.
+- **Current Interests**: Deepening my expertise in Vue.js ecosystems, exploring advanced back-end integrations, and optimizing web performance.
+
+### Featured Work
+
+- **Personal Portfolio Website**: A showcase of my skills built with Vue.js, Pinia and Tailwind CSS. <a target="_blank" href="https://magdi-khaled-portfolio.vercel.app/">  
+   <img src="https://magdi-khaled-portfolio.vercel.app/assets/icon-CfB4I6bF.png" alt="Portfolio Icon" width="30" style="vertical-align: middle; border: 2px solid #7E6D52; padding: 4px;"/>  
+  </a>
+
+---
+
+## 🎯 Skills
+
+### Langauges
+
    <p>
-      <br>
-      <a href="#"><img width="40px" title = "C++" alt="C++" 
-                   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></a>
-      <a href="#"><img width="40px" title = "C#" src="https://pbs.twimg.com/media/EUXTLf8XYAEjUgi.png"></a>
-      <a href="#"><img width="40px" title = "Java" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></a>
-      <a href="#"><img width="40px" title = "Python"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
-      <a href="#"></a>
-   </p>
-      
-### 💻 Software and tools :
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"alt="Sass"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"alt="C#"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"alt="Java"/>
+</p>
+
+### Front-end Frameworks
+
    <p>
-      <br>
-      <a href="#"><img title="Git" width= "40px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></a>
-      <a href="#"><img title = "Visual Studio Code" width ="40px" alt="Visual Studio Code" src="https://user-images.githubusercontent.com/29654835/27530003-e78876b8-5a13-11e7-8863-83fbdb900f72.png"></a>
-      <a href="#"><img title = "Postman" width = "40px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"></a>
-      <a href="#"><img title = "InteliJ" width = "40px" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"></a>
-      <a href="#"><img title = "CLion" width = "40px" src="https://static-00.iconduck.com/assets.00/jb-clion-icon-256x256-mysjii3d.png"></a>
-      <a href="#"><img title = "PyCharm" width = "40px" src="https://static-00.iconduck.com/assets.00/pycharm-icon-512x512-wd58qkwx.png"></a>
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white"alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?style=for-the-badge&logo=nuxt.js&logoColor=white"alt="Nuxt.js"/>
+  <img src="https://img.shields.io/badge/Vuex-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white"alt="Vuex"/>
+  <img src="https://img.shields.io/badge/Pinia-%23FFD859.svg?style=for-the-badge&logo=pinia&logoColor=black"alt="Pinia"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"alt="Bootstrap"/>
+</p>
+
+### Back-end Frameworks
+
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"alt="Express.js"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"alt="PostgreSQL"/>
+  </p>
+
+### Developer Tools
+
+   <p>
+   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"alt="Figma"/>
+   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"alt="Git"/>
+   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"alt="GitHub"/>
+   <img src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"alt="Webpack"/>
    </p>
-     
+
+---
+
+## 📬 Get in Touch
+
+I’m open to collaboration, feedback, or exciting opportunities! Reach out via:
+
+<p align="center">
+  <a title="Gmail" target="_blank"href="mailto:magdikhaled23s@gmail.com">
+    <img src="https://user-images.githubusercontent.com/112272836/215079596-072098c2-d4b9-44ff-a327-489ca029aa75.png"alt="Email" width="35"/>  
+  </a>
+  <a title="Linked In" target="_blank"href="https://www.linkedin.com/in/magdi-khaled-2b1b61206/">
+    <img src="https://www.citypng.com/public/uploads/preview/linkedin-square-white-icon-transparent-png-701751694974206tsxnbf2rft.png"alt="LinkedIn" width="40"/>
+  </a>
+  <a title="Magdi Khaled | Resume" target="_blank"href="https://drive.google.com/file/d/1dwW8yLZ0CKggO8LHGxWaRx0M5WXlO-mT/view?usp=sharing">  
+    <img src="https://cdn-icons-png.freepik.com/256/16425/16425681.png?semt=ais_hybrid"alt="Resume" width="40"/>
+  </a>
+</p>
+
+- **Email**: [magdikhaled23s@gmail.com](mailto:magdikhaled23s@gmail.com)
+- **LinkedIn**: [linkedin.com/in/magdi-khaled-2b1b61206](https://www.linkedin.com/in/magdi-khaled-2b1b61206/)
+- **Resume**: [View on Google Drive](https://drive.google.com/file/d/1dwW8yLZ0CKggO8LHGxWaRx0M5WXlO-mT/view?usp=sharing)
+
+---
+
+## 🌟 Let’s Build Together!
+
+Thanks for visiting! I’m excited to connect and create impactful web solutions. Let’s make something amazing! ✨
