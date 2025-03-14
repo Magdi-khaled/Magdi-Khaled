@@ -1,6 +1,5 @@
 <h1 align = 'center'>Magdi Khaled 👋</h1>
 
----
 
 ### :octocat: Profile Views
 
