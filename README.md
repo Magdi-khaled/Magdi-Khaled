@@ -1,6 +1,5 @@
 <h1 align = 'center'>Magdi Khaled 👋</h1>
 
----
 
 ### :octocat: Profile Views
 
@@ -30,7 +29,7 @@
 ### Featured Work
 
 - **Personal Portfolio Website**: A showcase of my skills built with Vue.js, Pinia and Tailwind CSS. <a target="_blank" href="https://magdi-khaled-portfolio.vercel.app/">  
-   <img src="https://magdi-khaled-portfolio.vercel.app/assets/icon-CfB4I6bF.png" alt="Portfolio Icon" width="30" style="vertical-align: middle; border: 2px solid #7E6D52; padding: 4px;"/>  
+   <img src="https://magdi-khaled-portfolio.vercel.app/assets/icon-CfB4I6bF.png" alt="Portfolio Icon" width="60" style="vertical-align: middle; border: 2px solid #7E6D52; padding: 4px;"/>  
   </a>
 
 ---
