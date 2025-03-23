@@ -1,6 +1,5 @@
 <h1 align = 'center'>Magdi Khaled 👋</h1>
 
-
 ### :octocat: Profile Views
 
 [![PRs Welcome](https://komarev.com/ghpvc/?username=Magdi-khaled&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Magdi-khaled)
@@ -114,9 +113,14 @@ I’m open to collaboration, feedback, or exciting opportunities! Reach out via:
   </a>
 </p>
 
+Let’s connect for collaboration or opportunities!
+
 - **Email**: [magdikhaled23s@gmail.com](mailto:magdikhaled23s@gmail.com)
-- **LinkedIn**: [linkedin.com/in/magdi-khaled-2b1b61206](https://www.linkedin.com/in/magdi-khaled-2b1b61206/)
-- **Resume**: [View on Google Drive](https://drive.google.com/file/d/1dwW8yLZ0CKggO8LHGxWaRx0M5WXlO-mT/view?usp=sharing)
+- **Whatsapp**: [https://wa.me/201122368948](https://wa.me/201122368948)
+- **LinkedIn**: [linkedin.com/in/magdi-khaled](https://www.linkedin.com/in/magdi-khaled-2b1b61206/)
+- **GitHub**: [github.com/MagdiKhaled1](https://github.com/Magdi-khaled)
+- **Portfolio**: [magdi-khaled-portfolio.vercel.app](https://magdi-khaled-portfolio.vercel.app)
+- **Codeforces**: [codeforces.com/profile/MagdiKhaled1](https://codeforces.com/profile/MagdiKhaled1)
 
 ---
 
