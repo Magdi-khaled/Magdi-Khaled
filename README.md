@@ -81,6 +81,22 @@
    <img src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"alt="Webpack"/>
    </p>
 
+### Skill Proficiency
+
+- ![Vue.js](https://img.shields.io/badge/Vue.js-97%25-brightgreen?style=flat)
+  ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-94%25-brightgreen?style=flat)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-96%25-brightgreen?style=flat)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-94%25-brightgreen?style=flat)
+- ![Html5](https://img.shields.io/badge/Html5-98%25-blue?style=flat)
+  ![Css3](https://img.shields.io/badge/CSS-98%25-blue?style=flat)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-97%25-blue?style=flat)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-95%25-blue?style=flat)
+  ![Sass](https://img.shields.io/badge/Sass-94%25-blue?style=flat)
+- ![Node.js](https://img.shields.io/badge/Node.js-95%25-green?style=flat)
+  ![Express.js](https://img.shields.io/badge/Express.js-92%25-green?style=flat)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-92%25-brightgreen?style=flat)
+  ![Figma](https://img.shields.io/badge/Figma-91%25-brightgreen?style=flat)
+
 ---
 
 ## 📬 Get in Touch
@@ -105,6 +121,6 @@ I’m open to collaboration, feedback, or exciting opportunities! Reach out via:
 
 ---
 
-## 🌟 Let’s Build Together!
+## 🌟 Let’s Build Together
 
 Thanks for visiting! I’m excited to connect and create impactful web solutions. Let’s make something amazing! ✨
