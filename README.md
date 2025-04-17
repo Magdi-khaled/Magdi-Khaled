@@ -109,7 +109,7 @@ I’m open to collaboration, feedback, or exciting opportunities! Reach out via:
   <a title="Linked In" target="_blank"href="https://www.linkedin.com/in/magdi-khaled-2b1b61206/">
     <img src="https://www.citypng.com/public/uploads/preview/linkedin-square-white-icon-transparent-png-701751694974206tsxnbf2rft.png"alt="LinkedIn" width="40"/>
   </a>
-  <a title="Magdi Khaled | Resume" target="_blank"href="https://drive.google.com/file/d/1dwW8yLZ0CKggO8LHGxWaRx0M5WXlO-mT/view?usp=sharing">  
+  <a title="Magdi Khaled | Resume" target="_blank"href="https://drive.google.com/file/d/1Lslxs_daHwEPQI5bm_bJveaxLDoUpfqI/view">  
     <img src="https://cdn-icons-png.freepik.com/256/16425/16425681.png?semt=ais_hybrid"alt="Resume" width="40"/>
   </a>
 </p>
