@@ -73,10 +73,11 @@
 ### Developer Tools
 
    <p>
-   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"alt="Figma"/>
-   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"alt="Git"/>
-   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"alt="GitHub"/>
-   <img src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"alt="Webpack"/>
+    <img src="https://img.shields.io/badge/Vite-9C27B0.svg?style=for-the-badge&logo=Vite&logoColor=white" alt="Vite"/>
+    <img src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"alt="Webpack"/>
+    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"alt="Figma"/>
+    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"alt="GitHub"/>
    </p>
 
 ### Skill Proficiency
